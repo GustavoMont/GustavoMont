@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m a full-stack developer. 
-- 🌱 I’m currently learning about ReactJs, Express, typescript. 
 - 👨‍💻 You can see more about my work on [My Website](https://portfolio-gustavomonteiro.vercel.app/)
 - 📫 Contact me: lgmluisgm@gmail.com or [My Linkedin](https://www.linkedin.com/in/luis-gustavo-monteiro/)
 - ⚡ Fun fact: When I was a kid I wanted to be spider-man. As an adult I feel like a kid. 🤟🏽🕸
