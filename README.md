@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 
 
 - 🔭 I’m a full-stack developer. 
 - 👨‍💻 You can see more about my work on [My Website](https://portfolio-gustavomonteiro.vercel.app/)
